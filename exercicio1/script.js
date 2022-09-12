@@ -7,5 +7,5 @@ while(coxinha === 'S'){
 }
 
 if (coxinha === 'N'){
-    console.log(`Nª de coxinhas consumidas: ${conta/2.50}\nValor da conta: R$${conta}`)
+    console.log(`Nº de coxinhas consumidas: ${conta/2.50}\nValor da conta: R$${conta}`)
 }
