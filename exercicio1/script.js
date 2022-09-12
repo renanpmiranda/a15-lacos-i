@@ -1,4 +1,4 @@
-let coxinha = prompt('Deseja comer mais coxinhas?')
+let coxinha = prompt('Deseja comer uma coxinha?')
 let conta = 0
 
 while(coxinha === 'S'){
